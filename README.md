@@ -61,7 +61,7 @@ Para que os Jornalistas possam realizar suas operações básicas eles devem est
 ## Processo de submissão
 
 O teste deve ser **versionado e disponibilizado no GitHub do candidado**.  
-Enviar o link para:  [brendacamara@opovodigital.com](mailto:brendacamara@opovodigital.com)  e  [mariafernandes@opovodigital.com](mailto:mariafernandes@opovodigital.com)  
+Enviar o link para:  [brendacamara@opovodigital.com](mailto:brendacamara@opovodigital.com)
 
 Boa sorte a todos e  
 Bom trabalho!!
